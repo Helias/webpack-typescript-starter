@@ -7,6 +7,6 @@ export class Greeter {
     }
 
     greet(): void {
-        console.log(`Hi, ${this.name}!`);
+        console.log(`Hello ${this.name}!`);
     }
 }
